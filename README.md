@@ -16,6 +16,12 @@
 
 <a href="https://github.com/olawaley8/e-Commerce-WebApp">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=olawaley8&repo=e-Commerce-WebApp&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <a href="https://github.com/olawaley8/e-Commerce-WebApp/blob/main/README.md">
+  <p>
+    https://github.com/olawaley8/e-Commerce-WebApp/blob/main/README.md
+  </p>
+  </a>
+
 </a>
 
 <br>
