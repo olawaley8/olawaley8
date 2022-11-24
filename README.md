@@ -12,6 +12,11 @@
 </p>
 ## 📌 Pinned Repositories
 
+<a href="https://github.com/olawaley8/e-Commerce-WebApp">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=olawaley8&repo=item-repository&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+
 <br>
 
 <a href="https://github.com/olawaley8/express-demo">
@@ -22,9 +27,6 @@
 
 <br>
 
-<a href="https://github.com/olawaley8/item-repository">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=olawaley8&repo=item-repository&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
