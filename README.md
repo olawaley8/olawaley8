@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **hassanola80@gmail.com**
 
-- ⚡ Fun fact **I love playing ludo...lol**
+- ⚡ Fun fact **eating is my hobby...lol**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
