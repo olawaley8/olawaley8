@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Olawale Hassan</h1>
 <h3 align="center">An innovative backend developer from the giant of Africa</h3>
 
-- 📫 How to reach me **hassanola80@gmail.com**
+- 📫 Reach me at **hassanola80@gmail.com**
 
-- ⚡ Fun fact **eating is my hobby...lol**
+- ⚡ Fun fact: **eating is my hobby...lol**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
